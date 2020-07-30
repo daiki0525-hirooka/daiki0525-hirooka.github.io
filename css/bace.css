@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+#menubar > ul {
+    list-style: none;
+    padding-left: 0px
+}
+
+#menubar > ul > li {
+    display: inline;
+    margin: 0 16px 0 0;
+    padding: 4px;
+    border: 1px solid #005500;
+    border-radius: 4px;
+    background: linear-gradient(#FFFFFF, #888888);
+}
+
+html{
+    background-color: antiquewhite
+}
+
+h1{
+    color: #005500;
+}
+
+h2{
+    color:  #005500;
+}
+
+li{
+    color: #3cb371;
+}
